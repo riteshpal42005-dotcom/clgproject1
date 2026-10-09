@@ -1,7 +1,5 @@
 
-from sqlalchemy import (
-    Column, String, Integer, Numeric, ForeignKey
-)
+from sqlalchemy import Column, String, Integer, Numeric, ForeignKey
 from core.database import Base
 
 
@@ -14,14 +12,14 @@ class SaleItems(Base):
         String,
         ForeignKey("sales.id", ondelete="CASCADE"),
         nullable=False,
-        index=True,
+        index=True
     )
 
     product_id = Column(
         String,
         ForeignKey("products.id"),
         nullable=False,
-        index=True,
+        index=True
     )
 
     quantity = Column(Integer, nullable=False)
