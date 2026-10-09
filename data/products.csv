@@ -1,0 +1,13 @@
+
+product_id,sku,name,category,unit_price,stock_quantity,low_stock_threshold
+P001,SKU001,Wireless Mouse,Electronics,599.00,50,10
+P002,SKU002,Mechanical Keyboard,Electronics,2499.00,20,5
+P003,SKU003,USB Cable,Accessories,199.00,100,20
+P004,SKU004,USB Hub,Accessories,799.00,15,5
+P005,SKU005,Headphones,Audio,1499.00,25,8
+P006,SKU006,Webcam,Electronics,2199.00,12,4
+P007,SKU007,Laptop Stand,Accessories,999.00,18,5
+P008,SKU008,Bluetooth Speaker,Audio,1799.00,30,10
+P009,SKU009,Monitor,Electronics,8999.00,8,3
+P010,SKU010,Mouse Pad,Accessories,299.00,60,15
+  

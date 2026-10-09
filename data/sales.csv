@@ -1,0 +1,8 @@
+
+sale_id,invoice_number,sale_date,status
+S001,INV-0001,2026-09-15T10:30:00Z,completed
+S002,INV-0002,2026-09-16T12:15:00Z,completed
+S003,INV-0003,2026-09-17T09:00:00Z,completed
+S004,INV-0004,2026-09-18T14:20:00Z,completed
+S005,INV-0005,2026-09-19T11:45:00Z,completed
+  
